@@ -1,0 +1,21 @@
+import{_ as p}from"./FUTSRZ7Q.js";import{g as m}from"./BivMSyuE.js";import{e as u,r as d,u as g,c as s,f as n,a as t,F as o,g as l,h as c,o as i,t as r,_ as b}from"#entry";const f={class:"about-page"},k={class:"content-section"},_={class:"content-block"},y={class:"skills-list"},x={class:"skill-text"},I={class:"content-block"},O={class:"skills-list"},T={class:"skill-text"},C=u({__name:"about",setup(w){const v=d(["Penetration Testing","Security Research","Strange Ideas","Learning New Technologies"]),h=d(["OSCP","HTB CPTS"]);return g(m("About","About Chili - A cybersecurity enthusiast and technical writer.")),(S,a)=>(i(),s("div",f,[a[4]||(a[4]=n('<div class="hero-section" data-v-da4a68de><div class="avatar-container" data-v-da4a68de><img src="'+p+'" alt="Chili" class="avatar" data-v-da4a68de></div><h1 class="site-title" data-v-da4a68de>About Chili</h1><p class="site-tagline" data-v-da4a68de>Today I&#39;m still testing the limits of learning. T_T</p></div>',1)),t("section",k,[a[2]||(a[2]=n(`<div class="content-block" data-v-da4a68de><h2 class="section-title" data-v-da4a68de>Who I Am</h2><p class="content-text" data-v-da4a68de> Hi, I&#39;m Chili. I&#39;m a very, very, very useless cybersecurity enthusiast who likes to experiment with strange but interesting technologies. (Skill points insufficient; courage filling the gap! Q_Q) </p><p class="content-text" data-v-da4a68de> I write about HackTheBox machines, security research and various other technical topics that interest me. (Attempting to use this to monitor my own learning!) </p></div><div class="ascii-art-container" data-v-da4a68de><div class="ascii-art" data-v-da4a68de><pre class="kali-ascii" data-v-da4a68de>..............
+            ..,;:ccc,.
+          ......&#39;&#39;&#39;;lxO.
+.....&#39;&#39;&#39;&#39;..........,:ld;
+           .&#39;;;;:::;,,.x,
+      ..&#39;&#39;&#39;.            0Xxoc:,.  ...
+  ....                ,ONkc;,;cokOdc&#39;,.
+ .                   OMo           &#39;:ddo.
+                    dMc               :OO;
+                    0M.                 .:o.
+                    ;Wd
+                     ;XO,
+                       ,d0Odlc;,..
+                           ..&#39;,;:cdOOd::,.
+                                    .:d;.&#39;:;.
+                                       &#39;d,  .&#39;
+                                         ;l   ..
+                                          .o
+                                            c
+                                            .&#39;
+                                             .</pre></div></div>`,2)),t("div",_,[a[0]||(a[0]=t("h2",{class:"section-title"},"What I Do",-1)),t("div",y,[(i(!0),s(o,null,l(c(v),e=>(i(),s("div",{class:"skill-item",key:e},[t("span",x,r(e),1)]))),128))])]),t("div",I,[a[1]||(a[1]=t("h2",{class:"section-title"},"Certificate",-1)),t("div",O,[(i(!0),s(o,null,l(c(h),e=>(i(),s("div",{class:"skill-item",key:e},[t("span",T,r(e),1)]))),128))])]),a[3]||(a[3]=n('<div class="content-block" data-v-da4a68de><h2 class="section-title" data-v-da4a68de>About the Blog</h2><p class="content-text" data-v-da4a68de> The style of this blog is inspired by the blog of the person I admire, <a href="https://manesec.github.io" target="_blank" class="link" data-v-da4a68de>manesec</a></p><p class="content-text" data-v-da4a68de> Love this very minimalist theme. </p><p class="content-text" data-v-da4a68de> This is the address of my original blog. <a href="https://buchilajiao.site/" target="_blank" class="link" data-v-da4a68de>https://buchilajiao.site/</a></p></div><div class="content-block" data-v-da4a68de><h2 class="section-title" data-v-da4a68de>Contact me</h2><p class="content-text" data-v-da4a68de> If you have any questions or if we can learn something from each other, please feel free to contact me. </p><div class="contact-info" data-v-da4a68de><div class="email-container" data-v-da4a68de><span class="email-label" data-v-da4a68de>Email:</span><a href="mailto:buchilajiao123@proton.me" class="email-link" data-v-da4a68de>buchilajiao123@proton.me</a><span class="email-note" data-v-da4a68de>(No plans to set up my own email server for the time being, I&#39;ll have to make do)</span><p class="content-text" data-v-da4a68de> Try Harder </p></div></div></div>',2))])]))}}),N=b(C,[["__scopeId","data-v-da4a68de"]]);export{N as default};
